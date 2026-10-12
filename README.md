@@ -4,7 +4,7 @@ A simple, interactive Flutter project demonstrating the use of the AnimatedPaddi
 
 ## Overview
 
-The AnimatedPadding widget is an animated version of Flutter's standard Padding widget. It is used to dynamically transition a widget's padding over a specified duration—perfect for UI effects like zooming into an image, shrinking an asset, or creating smooth, responsive layouts.
+The AnimatedPadding is simply the animated version of the Padding widget. It is used to dynamically change a widget's padding for UI effects like zooming or shrinking an asset e.t.c.
 
 
 ## Key UI Components
